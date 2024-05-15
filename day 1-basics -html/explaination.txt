@@ -1,0 +1,18 @@
+Today we learned about tags ,atributes 
+    
+    heading tags - creates a heading <h1> -- <h6> in dec size 
+    paragraph tags - used to write the content on the website 
+                    <p> Sample text </p>
+    italics - used to convert plane text to italics
+            <i> - </i> 
+    bold - used to make the text bold 
+            <b> - </b>
+    sup - make the given text in between the tags to superscript 
+            <sup> - </sup>
+    sub - make the given text in between the tags to subscript
+            <sub> - </sub>
+    break - used to brak a paragraph lines to a next line 
+            <br> no closing tag
+    horizontal row - it creates a line between two paragraphs 
+            <hr> 
+            

@@ -1,0 +1,22 @@
+what we learned today 
+
+ordered list - used to create a list in html which is based on numbers
+        <ol> 
+            <li> apple </li> // <li> is a list item which will appear on the website
+            <li> Mango </li> 
+        </ol>
+
+output
+ 1. apple
+ 2. Mango
+
+unordered list - used to create a list in html which is based on bullets 
+        <ul>
+            <li> apple </li> // <li> is a list item which will appear on the website
+            <li> Mango </li> 
+        </ul>
+
+output
+. apple
+. Mango
+
