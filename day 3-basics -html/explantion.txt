@@ -1,0 +1,24 @@
+
+a tag - anchor tag 
+    : anchor tag is used to represent huperlink in html which allows the users to navigate from one page to another or to a specific location on the same page.
+
+href attribute : it is used to specify the URL of the linked page or the ID of the anchor on the same page.
+    ex - <a href="https://www.google.com">Open google</a>
+    This will open google on click on the same tab 
+    always use https://ww.google.com neither www.google.com nor google.com
+
+target attribute :
+the target attribute in HTML specifies where teh linked doc will open when a link is clicked. 
+The default behaviuor is to open the linked doc in the same window or tab. 
+However, by setting the target attribute to "_blank", the linked document will open in a new tab or window.
+
+Common uses of target attribute:
+1.To open an external link in a new tab or window, set target="_blank".
+2.To open a link in the same frame as it was clicked, use target="_self".
+3.To open a link in the parent frame, use target="_parent".
+4.To open a link in the full body of the window, use target="_top".
+
+example - <a target = "_blank" href="https://www.google.com">Open google</a>
+--> to open google in the nwe tab
+
+
