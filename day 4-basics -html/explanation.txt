@@ -1,0 +1,30 @@
+Form tag:   
+    form me inputs aate hai 
+
+    input tag :
+    it is used to take the input form the user 
+
+    placeholder attribute : it displays the text of what is to be written inside the input box .
+                            it is kept there until anything is written in the input box.
+                            We only give placeholder in the input boxes where something is to be written.
+
+    types:
+        text - text input can be anything
+        password - will make the text in bullets (hidden)
+        email - only email can be written in this type otherwise it gives an error
+        checkbox - is used to indicate whether a checkbox is checked by default when the page loads, and it is a boolean attribute that takes a value of either true or false.
+        Radio - it is a button which which is used to take input in form of options 
+            to get only one option checked if multiple radio buttons are given then give the same name to all the radio buttons so only one can get checked.
+        file - a choose file option appears which can be used to give the file as input 
+        range - a volume level slider to take input
+        color - a color picker appears to take any color as a input
+        date - a date input appears along with a calender to take the date input
+        submit - it submits the form and refreshes the page 
+
+    use br tag to seperate the inputs if multiple are there
+
+    label tag : can be used to associate a text description with a form element.
+        for attribute :
+            it is used to specify the ID of the form element that the label is associated with.
+            for is linked with the same id as of the input tag
+
