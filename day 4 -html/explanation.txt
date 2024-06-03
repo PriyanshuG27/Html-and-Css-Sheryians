@@ -1,7 +1,7 @@
 Form tag:   
     form me inputs aate hai 
 
-    input tag :
+input tag :
     it is used to take the input form the user 
 
     placeholder attribute : it displays the text of what is to be written inside the input box .

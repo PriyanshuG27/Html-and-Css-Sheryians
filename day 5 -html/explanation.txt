@@ -1,0 +1,6 @@
+div tag - it is a container which can contain multiple objects together (it does not have a height) it can be styled with the help of css or manipulated with js.
+
+id attribute - it is used to give a particular name to a tag which can be used to stlye it with css 
+
+id ka name kbhi repeat mt kro 
+class ka name repeat hoskta hai (multiple tags can be given the same name)

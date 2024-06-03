@@ -1,6 +1,6 @@
 
 a tag - anchor tag 
-    : anchor tag is used to represent huperlink in html which allows the users to navigate from one page to another or to a specific location on the same page.
+    : anchor tag is used to represent hyperlink in html which allows the users to navigate from one page to another or to a specific location on the same page.
 
 href attribute : it is used to specify the URL of the linked page or the ID of the anchor on the same page.
     ex - <a href="https://www.google.com">Open google</a>
@@ -19,6 +19,11 @@ Common uses of target attribute:
 4.To open a link in the full body of the window, use target="_top".
 
 example - <a target = "_blank" href="https://www.google.com">Open google</a>
---> to open google in the nwe tab
+--> to open google in the new tab
+
+
+img tag:
+it is used to give a source link of the image to show in the webpage
+alt attribute - it gives the text mentioned in the alt when it is hovered on the file if the src link has an error
 
 
