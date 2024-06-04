@@ -1,0 +1,17 @@
+kai baar tag ko dekh kat ye nahi btaya jaa skta ki aap exactly kya bnnane waale hai , 
+is cheej ko solve krta hai html 5 semantics 
+
+example :
+    header - pahla section of the website can be called header  
+    aside - side mein usually jo fixed elemnts hote hai unke liye use hota hai mainly   
+    article - website ke andar jo sub elements hoge unko article mein daal skte hai
+    section - pages of website
+    audio - audio support dene ke liye
+    video  - video audio support dene ke liye
+    footer - footer bnnane ke liye
+    nav - navigation bar
+
+ye saare tags aside, article, section, etc ye saare tags apne aap me kuch nhi krte 
+ye sab ek blank div kpke trh hi act krte hai  
+
+bas name hai but krte hai kuch nhi kudme its for better understanding of the browser to make a better experience for the user 

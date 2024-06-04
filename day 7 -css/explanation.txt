@@ -1,0 +1,22 @@
+repeatation steps 
+html file 
+css file 
+
+
+write boiler plate code of both of them -
+html - emmet (by !)
+css - 
+*{
+    margin :0;
+    padding :0;
+    box-sizing : border-box;
+}
+
+html,body{
+    width : 100%;
+    height :100%;
+
+}
+
+
+link both of them - use link in html head and add the style.css in href 

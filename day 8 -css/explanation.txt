@@ -1,0 +1,35 @@
+width and height
+
+task - a box that is red 
+in html css a box/rectangular shape is always is a div
+
+steps to do - 
+1. ek div banao ( div ki height nhi hoti it only has a width)
+2. div to height aur color do[height and width in px (ex- 200px) and for color of div use background color attribute and assign the color]
+
+target a div:
+    to traget a div in css we can use directly a div attribute ( isse saare divs target hojayenge)
+    but target a div with a class suppose a we have to use .a to target it (isse jin divs ki class a hogi vo target honge)
+    and to target a div with a id "a" we have to use #a .
+
+difference in bg color and color :
+ a color is for the color of the text 
+ and bg-color is for the background of the tedxt given 
+
+
+units:
+px = 1px = 1 px on screen we use it very less bcz on bigger divs a scroll bar will come which is not good for user experience. As well as all screens are not same so screens with higher dpi will have a different experience than a screen with lower dpi. So we generally use vw instead of px.
+%  = % of the screen or window available and it changes with the change in the window size so it gives a better experience
+vw = it is the percentage of the screen not the percentage of the parent div 
+vh = it is the percentage of the screen not the percentage of the parent div 
+em = it depends on the element's font size, and if we give it to the parent div it also applies on the child div
+(meaning kuch aisa : consider kariye ek element hai jiske pass 16px font size hai to 1em ki value 16px hojayegi aur agar font size change kiya to uske response me em ki value bhi change hogi. )
+rem = it takes the value of pixels form html tag (font size in html tag)
+rem and em acts as pixel only in conisderation to static or dynamic
+
+difference in % and vw and vh 
+% hamesha parent se value leta hai 
+vw and vh hamesha screen se value lete hai 
+
+max-width = thats the final width that can be given to a div. We can give a smaller value to the div but not a higher value than the max value.
+min-width = opp of the above.
