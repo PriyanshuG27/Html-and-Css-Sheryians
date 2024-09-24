@@ -1,0 +1,31 @@
+font:
+ font-family : can take any font dtlye u want to use 
+ font-weight : used to make the text bold or lighter 
+ text-transform : gives options like uppercase, lowercase, capitalize etc
+ text-decoration : giver options like underline, overline, wavy etc
+ font-size : can give the the size of the font in px or vw acc to the requirement if u want fixed size the px else vw to make it change acc to the size to screen.
+
+line-height : it is the spacing between the lines. 
+
+
+padding : given to the parent to move the inisde element by a certain value inside of the box or container.
+margin : given to the box to give space around it 
+ both padding and margin can be given in three ways :
+  only 1 value given : padding: 20px; it will give 20 px space inside from all sides of the parent 
+  when 2 values are given : padding: 20px 10px; 20px from top and bottom and 10px from right and left
+  when 4 values are given : padding: 20px 10px 30px 20px; 20 from top , 10 from right, 30 from bottom, 20 from left (clockwise direction)
+
+border:
+It is used to give a border to a div.
+It can be given in 2 ways :
+by assigning all the different values of border ,border-color, border-style in different lines 
+or
+by using all the values in the same border line 
+example => border : 1vw blue solid;
+
+border-radius : it is used to make the corners of the div round :
+    to make a circle we can use 50% as the value from a square,
+    to make a capsule like shape from a rectangle we can give the value to the radius as half of the width of the div
+
+  new commit line 
+  
